@@ -135,3 +135,4 @@ tk.Button(btn_frame, text="🗑 Clear", width=12, command=clear_logs)\
 update_loop()
 root.mainloop()
 
+# 

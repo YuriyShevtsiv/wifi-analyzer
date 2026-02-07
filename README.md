@@ -8,9 +8,9 @@
 The app detects whether an Ethernet cable is connected or disconnected, displays the connection status in real time, and logs connection history to a local file.
 It is designed specifically for **Ethernet-only setups** and does **not** rely on Wi-Fi or WLAN features.
 
----
+----
 
-## ✨ Features
+## ✨ Features 
 
 * 🔌 Detects Ethernet connection status (Connected / Disconnected)
 * 📊 Displays connection as **100% (connected)** or **0% (disconnected)**
