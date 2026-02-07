@@ -1,5 +1,6 @@
 
 # 🔌 Ethernet Monitor (Python)
+<img width="400" height="528" alt="Screenshot 2026-02-07 182552" src="https://github.com/user-attachments/assets/e979c4db-dd15-4fd0-aeb5-7a564a16639a" />
 
 ## 📖 Description
 
